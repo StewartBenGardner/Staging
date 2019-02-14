@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\SBG\Desktop\Selbstverständlich\Staging\Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3028708172.index
+2031259229.index
+1670834920.index
+764112257.index
+3051121947.index
+3673298875.index
